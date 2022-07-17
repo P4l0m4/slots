@@ -1,0 +1,12 @@
+@import 'plugins';
+
+body {
+  font-family: $body-font-family;
+}
+
+html,
+body {
+  margin-top: 10px;
+  height: 100%;
+  overflow-x: hidden;
+}
